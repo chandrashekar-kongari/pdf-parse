@@ -9,13 +9,32 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@openai/agents": "^0.3.4",
+    "@tanstack/react-query": "^5.90.12",
+    "@trpc/client": "^11.7.2",
+    "@trpc/next": "^11.7.2",
+    "@trpc/react-query": "^11.7.2",
+    "@trpc/server": "^11.7.2",
+    "@vercel/blob": "^2.0.0",
+    "@writerai/writer-sdk": "^3.6.0",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "dotenv": "^17.2.3",
+    "lucide-react": "^0.556.0",
     "next": "16.0.7",
+    "openai": "^6.10.0",
+    "pdf-parse": "^1.1.1",
     "react": "19.2.0",
-    "react-dom": "19.2.0"
+    "react-dom": "19.2.0",
+    "reductoai": "^0.13.0",
+    "superjson": "^2.2.6",
+    "tailwind-merge": "^3.4.0",
+    "zod": "^3.25.76"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
+    "@types/pdf-parse": "^1.1.4",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
