@@ -1,4 +1,4 @@
-[Watch Walkthrough Video](public/walkthrough.mp4)
+[Watch Walkthrough Video](https://drive.google.com/file/d/1DqGlU_kcCYQS6CoCgDxfrRKtoHdgLw7I/view?usp=sharing)
 
 This project shows three different ways to parse PDF files:
 
