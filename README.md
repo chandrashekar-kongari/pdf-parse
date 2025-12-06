@@ -1,3 +1,5 @@
+[Watch Walkthrough Video](public/walkthrough.mp4)
+
 This project shows three different ways to parse PDF files:
 
 1. Using pdf-parse
